@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devnito-llc/.github/main/profile/devnito.png" alt="Devnito" width="200" />
+  <img src="https://raw.githubusercontent.com/devnito-llc/.github/main/profile/devnito.png" alt="Devnito" width="2000" />
 </p>
 
 <h1 align="center">Devnito</h1>
