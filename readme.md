@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devnito-llc/.github/main/profile/devnito.png" alt="Devnito" width="200" />
+</p>
+
 <h1 align="center">Devnito</h1>
 <h3 align="center">Engineering Partner for Scalable Products</h3>
 
